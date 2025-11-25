@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Məşğuliyyətnamə
+repo_url: https://github.com/stiermid/mesguliyyetname
+
+theme:
+  name: terminal
+  palette: dark
+  features:
+    - footer.prev_next
+
+
