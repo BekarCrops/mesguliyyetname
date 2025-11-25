@@ -1,4 +1,4 @@
-# Xələfi-bekarın dəftəri
+# Xələfi-bekarın müqəddiməsi
 
 Adəmoğlu əvvəllər bekar qeydləri `Sərgüzəşti-bekar` layihəsi altında toplamışdı. Lakin hər gözəl məfhumun bir sonu olduğu kimi onunda sonu gözlənilən oldu. Layihə sonuna qovuşsa da, yazarların sonuna hələ var idi...
 
