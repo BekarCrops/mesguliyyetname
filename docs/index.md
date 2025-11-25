@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Xələfi-bekarın dəftəri
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Adəmoğlu əvvəllər bekar qeydləri `Sərgüzəşti-bekar` layihəsi altında toplamışdı. Lakin hər gözəl məfhunun bir sonu olduğu kimi onunda sonu gözlənilən oldu. Layihə sonuna qovuşsa da, yazarların sonuna hələ var idi...
 
-## Commands
+Odurki sizləri qarışılayan **Məşğuliyyətnamə**dir. Sələfinin bekarlıq səviyyəsindəki bəndlər[^1] illərin ardından təzələnmiş düşüncə biçimi ilə qovuşur. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[^1]: `Sərgüzəşti-bekar` layihəsindəki hər bir bekar 'post' *bənd* adlandırılırdı.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
