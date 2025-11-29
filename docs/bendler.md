@@ -4,3 +4,5 @@ Hal-hazırda redaktor(lar?) tərəfindən ictimaiyyətə təqdim edilmiş bəndl
 
 - [Buradan başla](/bend/telesme/)
 
+- [N-ölçülü kainat təhlilləri #1](/bend/n-olculu-kainat-tehlilleri-1)
+
