@@ -1,3 +1,9 @@
+---
+title: 'N-ölçülü kainat təhlilləri #1'
+author: 'default'
+date: '2025-11-29'
+---
+
 # N-ölçülü kainat təhlilləri
 
 Hamımız 4 ölçülü kainatı yaşayır və onun mexanikası ilə təcrübələnirik. Amma bekarlardan savayı heç kəs onun niyə belə olduğunu, fərqli olduğu təqdirdə nə ilə üzləşəcəyimizi və ya üzləşə bilərikmi kimi sualları vermir. Mən isə bekarların çiyninə düşən yükləri bir az belə olsa azaltmaq naminə bu gün onun haqqında fikir yürüdəcəm. 
