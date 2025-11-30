@@ -17,6 +17,7 @@ nav:
 
 plugins:
   - git-revision-date
+  - macros
 
 markdown_extensions:
   - meta
