@@ -16,7 +16,7 @@ Nə qədər özümüz bekar olsaqda, beynimiz bekarçılığı və ekzistensial 
 
 ## Getməyişat
 
-İnsanlar yatana zaman onlara datanın axını dayanır. Və qeyd etdiyimiz kimi bunun nəticəsində *yuxu* adlandırdıqları şeyləri görürlər.
+İnsanlar yatan zaman onlara datanın axını dayanır. Və qeyd etdiyimiz kimi bunun nəticəsində *yuxu* adlandırdıqları şeyləri görürlər.
 
 # Yıxılın yatın
 
