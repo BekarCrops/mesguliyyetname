@@ -22,7 +22,7 @@ Birinci situasiyanı təsəvvür edək: Yalnız zamanın olduğu yerdə, zamanı
 
 [^1]: Paradoksal göründüyünün (olduğunun) fərqindəyəm.
 
-İkinci situasiuyada isə birincidəkinə oxşar hadisə baş verir. Burada zamanın olmadığı 1 ölçülü fəzaya da eyni sualı ünvanlaya bilərik: Mənalısan? Təbiiki də, yox. Amma bir nüans var. Bu situasiya cansıxıcı kontekstində mənasızdır, lakin mövcudluğu mümkün ola bilər. Sadəcə özündə saxladığı cisimlər hərəkətsizdir. Hərəkət etmələri üçün onların zaman olan bir ölçüyə getmələri şərtdir. İndi isə belə bir sual ortaya çıxır. Bəs bu sistem necə yarandı? Açığı bu pəncərədən baxdıqda tutarlı bir görüş olmadığını deməliyəm. Ancaq sistemin var oluş səbəbi ilə maraqlanmasaq və əlimizdə olan sistem ilə maraqlansaq, hər şeyin yolunda getdiyini (getmədiyini) bilərik.
+İkinci situasiyada isə birincidəkinə oxşar hadisə baş verir. Burada zamanın olmadığı 1 ölçülü fəzaya da eyni sualı ünvanlaya bilərik: Mənalısan? Təbiiki də, yox. Amma bir nüans var. Bu situasiya cansıxıcı kontekstində mənasızdır, lakin mövcudluğu mümkün ola bilər. Sadəcə özündə saxladığı cisimlər hərəkətsizdir. Hərəkət etmələri üçün onların zaman olan bir ölçüyə getmələri şərtdir. İndi isə belə bir sual ortaya çıxır. Bəs bu sistem necə yarandı? Açığı bu pəncərədən baxdıqda tutarlı bir görüş olmadığını deməliyəm. Ancaq sistemin var oluş səbəbi ilə maraqlanmasaq və əlimizdə olan sistem ilə maraqlansaq, hər şeyin yolunda getdiyini (getmədiyini) bilərik.
 
 Üçüncü situasiya haqqında isə çox söz demək mümkün deyil. X-dən ibarət olan kainat üçün daxildəki hər bir şey X dərəcəsindən bir şeydir. bloatware.
 
