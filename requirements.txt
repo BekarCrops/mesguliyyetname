@@ -1,6 +1,8 @@
+CacheControl==0.14.4
 certifi==2026.2.25
 charset-normalizer==3.4.4
 click==8.3.1
+filelock==3.24.3
 ghp-import==2.1.0
 gitdb==4.0.12
 GitPython==3.1.46
@@ -14,7 +16,9 @@ mkdocs==1.6.1
 mkdocs-get-deps==0.2.0
 mkdocs-git-revision-date-plugin==0.3.2
 mkdocs-macros-plugin==1.5.0
+mkdocs-rss-plugin==1.17.9
 mkdocs-terminal==4.8.0
+msgpack==1.1.2
 packaging==26.0
 pathspec==1.0.4
 platformdirs==4.9.2

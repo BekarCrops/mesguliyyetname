@@ -18,6 +18,15 @@ nav:
 plugins:
   - git-revision-date
   - macros
+  - rss:
+      enabled: true
+      rss_feed_enabled: true
+      json_feed_enabled: true
+      feeds_filenames:
+        json_created: feed.json
+        json_updated: feed_updated.json
+        rss_created: feed.xml
+        rss_updated: feed_updated.xml
 
 markdown_extensions:
   - meta
