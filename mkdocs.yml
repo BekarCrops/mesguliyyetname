@@ -1,6 +1,8 @@
 site_name: Məşğuliyyətnamə
+site_description: Ənənəyə sadiq bekar bəndlər
 repo_url: https://github.com/stiermid/mesguliyyetname
 edit_uri: edit/master/docs
+site_url: https://mesguliyyetname.netlify.app
 
 theme:
   name: terminal
