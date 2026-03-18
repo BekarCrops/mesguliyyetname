@@ -6,7 +6,7 @@ date: '2025-11-28'
 
 # Məşğuliyyətnamə bəndləri üçün TTT prinsipi
 
-Bu websaytdakı kontentlə tanış olarkən TTT olaraq bilinən **Təhqir və Tənqidə Tələsəmə** prinsipindən istifadə etməyiniz xahiş edilir[^1]
+Bu websaytdakı kontentlə tanış olarkən TTT olaraq bilinən **Təhqir və Tənqidə Tələsmə** prinsipindən istifadə etməyiniz xahiş edilir[^1]
 
 ## Zehni sağlamlıq məsləhətləri
 
