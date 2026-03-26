@@ -6,7 +6,7 @@ date: '2026-02-03'
 
 # Ağ, qara və yaşıl
 
-Çoxunluğa məlum olduğu üzrə daltoniklər rəngləri ağ-qara görmür. Sadəcə onlara verilən şkalada bəzi rəngləri təyin edə bilmir. Bunu gözlərindəki piqmentlərin bizim normal adlandırdığımızdan fərqli olması ilə açıqlamaq olar.
+Əksəriyyətə məlum olduğu üzrə daltoniklər rəngləri ağ-qara görmür. Sadəcə onlara verilən şkalada bəzi rəngləri təyin edə bilmir. Bunu gözlərindəki piqmentlərin bizim normal adlandırdığımızdan fərqli olması ilə açıqlamaq olar.
 
 ## Mantis kreveti daltonikdir?
 
