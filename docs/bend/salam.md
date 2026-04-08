@@ -1,3 +1,10 @@
+---
+title: 'Yeni bekar redaktor sizi salamlayır'
+author: 'bekar#1'
+date: '2026-04-08'
+---
+
+
 # Mən gəldim!
 
 Öncəliklə, özümü bu bəndləri daimi izləyən bütün bekardaş-larımın (max 3 nəfər) adından salamlayıram. Xoş gəldiyimi düşünür və hətta iddia edirəm.
