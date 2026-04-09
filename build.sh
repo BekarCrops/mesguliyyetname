@@ -1,1 +1,1 @@
-pip install -r requirements.txt && mkdocs build
+uv pip install -r requirements.txt --system && mkdocs build
